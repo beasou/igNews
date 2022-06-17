@@ -14,7 +14,7 @@
  --background: #121414;
 }
 
-@media(max-width: 1080px){//conforme reduz o tamanho da tela, reduz o tamanho da fonte.
+@media(max-width: 1080px){//conforme reduz/aumenta o tamanho da tela, altera o tamanho da fonte, sem distorcer.
     html{
         font-size: 93.75%; //16*0,9375 = 15px
     }
